@@ -3,7 +3,7 @@ const linksSocialMedia = {
       youtube: "/channel/UCWzXGdB6k3cptH7yRH7odQw",
       facebook: "nagel.ricardo",
       instagram: "nagelricardo",
-      twitter: "nagel.ric"
+      twitter: "nagelric"
 }
 
 function changeSocialMedia() {
